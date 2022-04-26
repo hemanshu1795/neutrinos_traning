@@ -1,0 +1,64 @@
+{
+    "ac39894d-19a2-f537-6062-3e7a1595fd37": {
+        "paletteKey": "NG-Toolbar",
+        "commentid": null,
+        "designerReference": [
+            {
+                "_key": "componentLabel",
+                "_value": "Toolbar Test",
+                "_type": "kv",
+                "_attrDef": "p",
+                "_useAsLabel": true
+            },
+            {
+                "_key": "style",
+                "_value": "",
+                "_type": "kv",
+                "_attrDef": "p"
+            },
+            {
+                "_key": "class",
+                "_value": "",
+                "_type": "dav",
+                "_attrDef": "p"
+            },
+            {
+                "_key": "color",
+                "_value": "primary",
+                "_type": "kv",
+                "_attrDef": "p"
+            },
+            {
+                "_key": "content",
+                "_value": "Toolbar Test",
+                "_type": "a",
+                "_attrDef": "p"
+            }
+        ]
+    },
+    "dbed6e30-8dd8-3178-5eca-8f112e4968db": {
+        "paletteKey": "NG-RouterOutlet",
+        "commentid": null,
+        "designerReference": [
+            {
+                "_key": "componentLabel",
+                "_value": "Router Outlet",
+                "_type": "kv",
+                "_attrDef": "p",
+                "_useAsLabel": true
+            },
+            {
+                "_key": "(activate)",
+                "_value": "",
+                "_type": "kv",
+                "_attrDef": "p"
+            },
+            {
+                "_key": "(deactivate)",
+                "_value": "",
+                "_type": "kv",
+                "_attrDef": "p"
+            }
+        ]
+    }
+}

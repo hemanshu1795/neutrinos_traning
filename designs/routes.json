@@ -1,0 +1,29 @@
+{
+    "routes": [
+        {
+            "path": "home",
+            "component": "homeComponent",
+            "children": [
+                {
+                    "path": "list",
+                    "component": "listComponent"
+                },
+                {
+                    "path": "detail/:id",
+                    "component": "detailComponent"
+                }
+            ]
+        },
+        {
+            "path": "''",
+            "redirectTo": "home",
+            "pathMatch": "full",
+            "default": true
+        },
+        {
+            "path": "**",
+            "component": "",
+            "redirectTo": "home"
+        }
+    ]
+}
